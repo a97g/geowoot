@@ -1,10 +1,10 @@
 # geowoot
 
-Real-time coordinate tracking and geolocation metadata visualization application built with Next.js and TypeScript.
+Real-time coordinate tracking and geolocation meta visualization application built with Next.js and TypeScript.
 
 ## Overview
 
-geowoot is a modern web application that tracks real-time coordinates and displays geographical metadata including maps and country-specific information. It features a responsive UI with live updates, reverse geocoding, and integrated Google Maps visualization.
+geowoot is a modern web application that tracks real-time coordinates and displays geographical meta data including maps and country-specific information. It features a responsive UI with live updates, reverse geocoding, and integrated Google Maps visualization.
 
 ## Features
 
@@ -14,6 +14,11 @@ geowoot is a modern web application that tracks real-time coordinates and displa
 - **Country Metadata**: Display country-specific information fetched from geometas.com
 - **Live Updates**: Automatic refresh with SWR for real-time data synchronization
 - **Responsive Design**: Mobile-friendly interface with Tailwind CSS and shadcn/ui components
+
+## Preview
+
+![geowoot coords preview](https://i.imgur.com/U5AWGBe.png)
+![geowoot waiting preview](https://i.imgur.com/kenAMew.png)
 
 ## Tech Stack
 
